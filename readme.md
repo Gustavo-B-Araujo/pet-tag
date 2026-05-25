@@ -214,28 +214,12 @@ GET /ultima-leitura
 ### 1. Clonar projeto
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Gustavo-B-Araujo/pet-tag
 ```
 
 ---
 
-### 2. Instalar dependências
-
-```bash
-npm install
-```
-
----
-
-### 3. Executar API localmente
-
-```bash
-npm start
-```
-
----
-
-### 4. Executar dashboard
+### 2. Abrir o dashboard
 
 Abrir:
 
@@ -245,7 +229,7 @@ https://dashboard-pet.onrender.com/
 
 ---
 
-### 5. Executar Wokwi
+### 3. Executar Wokwi
 
 1. Abrir projeto
 2. Iniciar simulação
